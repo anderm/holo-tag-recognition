@@ -1,7 +1,7 @@
 # Holo Tag Recognition
 An example on how you can identify specific tags in your environment with HoloLens. The code is based on the blog post: http://www.andrei-ermilov.net/virtual-reality/identifying-tags-in-3d-space-with-hololens/.
 
-Please note it does not work in emulator, you will need a HoloLens device to deploy this solution. This is because Vuforia have not released a version 
+Please note it does not work in the emulator, you will need a HoloLens device to deploy this solution. 
 
 # Getting started
 - You will need to have the HoloLens tools installed: https://developer.microsoft.com/en-us/windows/holographic/install_the_tools
